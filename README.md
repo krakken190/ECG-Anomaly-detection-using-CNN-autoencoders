@@ -42,6 +42,3 @@ This high-resolution dataset enables in-depth analysis of heartbeat anomalies us
 - NumPy, Pandas
 - Matplotlib, Seaborn
 - Scikit-learn
-
-## 📁 Structure
-
